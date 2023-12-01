@@ -1,50 +1,48 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr. Alper Yegenoglu 
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Alper
+last_name: Yeğenoğlu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ⚛️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoc in Artificial Intelligence and Computational Neuroscience
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: SDL Neuroscience, Jülich Supercomputing Centre (JSC), Forschungszentrum Jülich, Jülich, Germany 
+    url: https://www.fz-juelich.de/en/ias/jsc/about-us/structure/simulation-and-data-labs/sdl-neuroscience
+  - name: Institute of Geometry and Applied Mathematics, Department of Mathematics, RWTH Aachen, Aachen, Germany
+    url: https://www.igpm.rwth-aachen.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I working and interested in meta-learning, neuro-architecture search and parameter-optimization with gradient-free methods
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Neuroscience
+  - Meta-learning, learning to learn
+  - Gradient-free Optimization
+  - Metaheuristics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer-science
+      institution: RWTH Aachen
+      year: 2023
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,7 +51,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: python
         icon_pack: fab
       - name: Data Science
