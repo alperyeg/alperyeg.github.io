@@ -108,6 +108,5 @@ social:
 highlight_name: true
 ---
 
-# Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 Alper Yeğenoğlu is a postdoc in artificial intelligence and computational neuroscience. He received his PhD (Dr.rer.nat) in computer science in 2023. His research interests include bio-inspired learning, meta-learning, neuro-architecture search and gradient-free optimization with population based techniques (metaheuristics) such as evolutionary algorithms.
 {style="text-align: justify;"}
