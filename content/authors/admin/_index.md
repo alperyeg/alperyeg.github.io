@@ -57,31 +57,21 @@ skills:
       - name: Artificial Intelligence
         description: ''
         percent: 100
-        icon: 
-        icon_pack: far
+        icon: code-branch
+        icon_pack: fas
       - name: Computational Neuroscience
         description: ''
         percent: 70
-        icon: 
+        icon: brain
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Music
-        description: ''
+        description: 'You can listen to my music at https://soundcloud.com/electric-courage and https://electriccourage.bandcamp.com/' 
         percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
+        icon: music
         icon_pack: fas
 
 # Social/Academic Networking
