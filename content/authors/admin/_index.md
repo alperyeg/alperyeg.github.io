@@ -54,15 +54,15 @@ skills:
         percent: 100
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Artificial Intelligence
         description: ''
         percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
+        icon: brain-circuit
+        icon_pack: far
+      - name: Computational Neuroscience
         description: ''
-        percent: 40
-        icon: database
+        percent: 70
+        icon: head-side-brain
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
