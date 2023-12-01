@@ -69,7 +69,7 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Music
-        description: 'You can listen to my music at https://soundcloud.com/electric-courage and https://electriccourage.bandcamp.com/' 
+        description: 'I do electronic music, especially synthwave. You can listen to my music at https://soundcloud.com/electric-courage and https://electriccourage.bandcamp.com/' 
         percent: 100
         icon: music
         icon_pack: fas
