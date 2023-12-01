@@ -57,18 +57,18 @@ skills:
       - name: Artificial Intelligence
         description: ''
         percent: 100
-        icon: brain-circuit
+        icon: 
         icon_pack: far
       - name: Computational Neuroscience
         description: ''
         percent: 70
-        icon: head-side-brain
+        icon: 
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Music
         description: ''
         percent: 60
         icon: person-hiking
