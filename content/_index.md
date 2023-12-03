@@ -65,7 +65,7 @@ sections:
         - title: PhD student/ Research Member 
           company: Simulation and Data Lab Neuroscience (SDL), Institute for Advanced Simulation (IAS), Jülich Supercomputing Centre (JSC), Forschungszentrum Jülich
           company_url: 'https://www.fz-juelich.de/en/ias/jsc/about-us/structure/simulation-and-data-labs/sdl-neuroscience'
-          company_logo: org-gc
+          company_logo: 'https://www.fz-juelich.de/static/media/Logo.2ceb35fc.svg'
           location: Jülich, Germany
           date_start: '2018-11-11'
           date_end: '2023-09-30'
@@ -93,7 +93,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Accomplishments'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
