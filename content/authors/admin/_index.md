@@ -27,13 +27,14 @@ organizations:
     url: https://www.igpm.rwth-aachen.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I working and interested in meta-learning, neuro-architecture search and parameter-optimization with gradient-free methods
+bio: I am working and interested in meta-learning, neuro-architecture search and (hyper-)parameter optimization with gradient-free methods
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
   - Computational Neuroscience
   - Meta-learning, learning to learn
+  - Neuro-architecture search, AutoML
   - Gradient-free Optimization
   - Metaheuristics
 
