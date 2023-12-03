@@ -64,7 +64,7 @@ sections:
       items:
         - title: PhD student/ Research Member 
           company: Simulation and Data Lab Neuroscience (SDL), Institute for Advanced Simulation (IAS), Jülich Supercomputing Centre (JSC), Forschungszentrum Jülich & Institute of Geometry and Applied Mathematics, Department of Mathematics, RWTH Aachen
-          company_url: 'https://www.fz-juelich.de/en/ias/jsc/about-us/structure/simulation-and-data-labs/sdl-neuroscience'
+          company_url: org-FZJ
           company_logo: 'https://www.fz-juelich.de/static/media/Logo.2ceb35fc.svg'
           location: Jülich, Germany
           date_start: '2018-11-11'
@@ -79,7 +79,7 @@ sections:
         - title: Software-Coordinator/ Research Member
           company: Institute of Neuroscience and Medicine (INM-6) & Institute for Advanced Simulation (IAS-6) & JARA Institute Brain Structure-Function Relationships (INM-10)
           company_url: 'https://www.fz-juelich.de/en/inm/inm-6/'
-          company_logo: org-x
+          company_logo: ''
           location: Jülich, Germany
           date_start: '2013-02-12'
           date_end: '2018-11-10'
