@@ -62,28 +62,33 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: PhD student/ Research Member 
+          company: Simulation and Data Lab Neuroscience (SDL), Institute for Advanced Simulation (IAS), Jülich Supercomputing Centre (JSC), Forschungszentrum Jülich
+          company_url: 'https://www.fz-juelich.de/en/ias/jsc/about-us/structure/simulation-and-data-labs/sdl-neuroscience'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Jülich, Germany
+          date_start: '2018-11-11'
+          date_end: '2023-09-30'
           description: |2-
-              Responsibilities include:
+              Topics include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+              * Gradient free optimization methods applied on
+              * Artiﬁcial and spiking neural networks (SNNs)
+              * Emergent self-organization and self-coordination in multi-agent systems steered by SNNs
+              * Meta-Learning and Multi-task learning with SNNs on high performance computing systems
+        - title: Software-Coordinator/ Research Member
+          company: Institute of Neuroscience and Medicine (INM-6) & Institute for Advanced Simulation (IAS-6) & JARA Institute Brain Structure-Function Relationships (INM-10)
+          company_url: 'https://www.fz-juelich.de/en/inm/inm-6/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-    design:
+          location: Jülich, Germany
+          date_start: '2013-02-12'
+          date_end: '2018-11-10'
+          description: |2-
+              Duties involved:
+            
+              * Implementation of statistical analysis methods for electrophysiological and analog time series data
+              * Maintaining the Electrophysiology Analysis Toolkit Analysis Toolkit (Elephant)
+              * Supporting other scientists implementing additional analysis methods
       columns: '2'
   - block: accomplishments
     content:
