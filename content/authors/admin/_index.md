@@ -84,7 +84,7 @@ social:
     icon_pack: fas
     link: '/#contact'
   - icon: mastodon
-    icon_pack: hb
+    icon_pack: fab
     link: https://fosstodon.org/@alper_yeg
     label: Follow me on Mastodon
     display:
