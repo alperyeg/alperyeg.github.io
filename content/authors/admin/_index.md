@@ -83,8 +83,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: fa-mastodon
-    icon_pack: fa-brands
+  - icon: mastodon
+    icon_pack: hb
     link: https://fosstodon.org/@alper_yeg
     label: Follow me on Mastodon
     display:
