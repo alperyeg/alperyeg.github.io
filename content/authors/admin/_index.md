@@ -62,7 +62,7 @@ skills:
         icon_pack: fas
       - name: Computational Neuroscience
         description: ''
-        percent: 70
+        percent: 100 
         icon: brain
         icon_pack: fas
   - name: Hobbies
@@ -74,7 +74,15 @@ skills:
         percent: 100
         icon: music
         icon_pack: fas
-
+      - name: Table-tennis 
+        description: ''
+        icon: 'table-tennis-paddle-ball'
+        icon_pack: fas
+      - name: Reading
+        description: ''
+        icon: 'book'
+        icon_pack: fas
+        
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
