@@ -13,6 +13,7 @@ publication_types:
 publication: '*International Conference on Machine Learning, Optimization, and Data
   Science*'
 doi: 10.1007/978-3-030-64580-9_7
+featured: true
 tags:
 - selected
 ---
