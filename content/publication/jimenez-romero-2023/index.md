@@ -13,6 +13,7 @@ publication_types:
 - article-journal
 publication: '*Swarm Intelligence*'
 doi: 10.1007/s11721-023-00231-6
+featured: true
 tags:
 - selected
 links:

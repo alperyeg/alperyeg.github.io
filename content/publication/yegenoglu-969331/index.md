@@ -9,6 +9,7 @@ publication_types:
 - thesis
 publication: '*Forschungszentrum Jülich GmbH, Zentralbibliothek, Verlag*'
 doi: 10.18154/RWTH-2023-09115
+featured: true
 links:
 - name: URL
   url: https://publications.rwth-aachen.de/record/969331
