@@ -13,7 +13,8 @@ authors:
 - Sandra Diaz-Pier
 date: '2022'
 publishDate: '2022-05-27'
-publication_types: ["article-journal"]
+publication_types: 
+- article-journal
 publication: '*Frontiers in Computational Neuroscience*'
 doi: 10.3389/fncom.2022.885207
 image:
