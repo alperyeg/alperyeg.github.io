@@ -1,6 +1,5 @@
 ---
-title: 'Multidisciplinary and collaborative training in neuroscience: Insights from
-  the Human Brain Project Education Programme'
+title: "Multidisciplinary and collaborative training in neuroscience: Insights from the Human Brain Project Education Programm"
 authors:
 - Alice Geminiani
 - Judith Kathrein
@@ -8,15 +7,15 @@ authors:
 - Franziska Vogel
 - Marcelo Armendariz
 - Ziv Ben-Zion
-- Petrut Bogdan
+- Petrut Antoniu Bogdan
 - Joana Covelo
-- Marissa Diaz
+- Marissa Diaz Diaz-Pier 
 - Karin Grasenick
 - Vitali Karasenko
 - Wouter Klijn
 - Tina Kokan
-- Anna Lührs
 - Carmen Alina Lupascu
+- Anna Lührs
 - Tara Mahfoud
 - Taylan Özden
 - Jens Egholm Pedersen
