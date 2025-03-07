@@ -34,4 +34,7 @@ tags:
   - optimization
   - meta-learning
   - L2L
+  - bio-inspired
+  - machine learning
+  - evolutionary algorithm
 ---
