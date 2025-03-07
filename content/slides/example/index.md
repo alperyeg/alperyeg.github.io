@@ -4,7 +4,7 @@ summary: An introduction to using Hugo Blox Builder's Slides feature.
 authors: []
 tags: []
 categories: []
-date: '2019-02-05T00:00:00Z'
+date: "2019-02-05T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
@@ -61,10 +61,6 @@ if porridge == "blueberry":
 In-line math: $x + y = z$
 
 Block math:
-
-$$
-f\left( x \right) = \frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
 
 ---
 
